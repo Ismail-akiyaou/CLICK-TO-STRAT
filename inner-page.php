@@ -100,7 +100,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-html-bootstrap-template-lonely/ -->
-        Designed by <a href="https://bootstrapmade.com/">CLICK TO STRAT</a>
+        Designed by <a href="https://ismail-akiyaou.github.io/CLICK-TO-STRAT/">CLICK TO STRAT</a>
       </div>
     </div>
   </footer><!-- End  Footer -->

@@ -604,7 +604,7 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  l était calme, stable et même souriante, et au bout d'une demi minute je n'étais plus consciente de la pièce, seulement de Ismail remplissant l'endroit à ras bord.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
@@ -617,7 +617,7 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                  c'est une personne qui dirige par une direction positive et construit un accord entre les membres de son groupe vers la réalisation d'un objectif coordonné.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
@@ -626,7 +626,7 @@
               </div>
             </div><!-- End testimonial item -->
 
-            <div class="swiper-slide">
+            <!-- <div class="swiper-slide">
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -637,13 +637,13 @@
                 <h3>Matt Brandon</h3>
                 <h4>Freelancer</h4>
               </div>
-            </div><!-- End testimonial item -->
+            </div>End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                  C'est l'amie qui nous rend heureux et avec qui nous pouvons nous amuser. C'est l'amie qui nous fait sourire et nous aide à éliminer le stress de notre journée de travail, c'est ISMAIL
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
@@ -670,7 +670,7 @@
 
         <div class="row">
 
-          <div class="col-lg-4 col-md-4">
+          <div class="col-lg-6 col-md-4">
             <div class="contact-about">
               <h3> Click To Strat</h3>
               <p> Informaticien Comptant 2 ans d'Expériences dans le domaine de l'informatique notamment en conception , Modélisation , Développmrnt , et la Gestion des project informatique. Maitrise de plusieurs types de langages informatiques et capable de travailler sur différentes plateformes. Autonome mais capable de travailler en équipe Grande disponibilité .</p>
@@ -684,7 +684,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-4">
+          <div class="col-lg-6 col-md-4">
             <div class="info">
               <div class="d-flex align-items-center">
                 <i class="bi bi-geo-alt"></i>
@@ -704,7 +704,7 @@
             </div>
           </div>
 
-          <div class="col-lg-5 col-md-8">
+          <!-- <div class="col-lg-5 col-md-8">
             <form action="forms/sendEmail.php" method="post" role="form" class="php-email-form">
               <div class="form-group">
                 <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
@@ -729,7 +729,7 @@
 
         </div>
 
-      </div>
+      </div> -->
     </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
@@ -745,7 +745,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-html-bootstrap-template-lonely/ -->
-        Designed by <a href="https://bootstrapmade.com/">CLICK TO STRAT</a>
+        Designed by <a href="https://ismail-akiyaou.github.io/CLICK-TO-STRAT/">CLICK TO STRAT</a>
       </div>
     </div>
   </footer><!-- End  Footer -->
